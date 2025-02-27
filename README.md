@@ -1,3 +1,3 @@
 # Python
 
-This my fist python progrm
+This is my first python program
